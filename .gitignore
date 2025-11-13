@@ -1,0 +1,21 @@
+# Python virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Large / derived data
+data/unified/
+data/indices/
+data/csv/
+data/raw_web/
+*.jsonl
+
+# Streamlit / misc
+.streamlit/ø
+

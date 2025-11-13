@@ -1,0 +1,14 @@
+streamlit
+networkx
+pandas
+openpyxl
+pdfplumber
+dateparser
+trafilatura
+requests
+numpy==1.26.4
+sentence-transformers==2.7.0
+llama-index-core
+llama-index-embeddings-huggingface
+faiss-cpu
+beautifulsoup4 
